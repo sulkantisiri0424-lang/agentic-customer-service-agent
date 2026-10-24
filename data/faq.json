@@ -1,0 +1,19 @@
+
+[
+  {
+    "question": "What is your return policy?",
+    "answer": "Customers can request a return within 7 days of delivery if the product is eligible."
+  },
+  {
+    "question": "How long does a refund take?",
+    "answer": "Refunds usually take 5 to 7 business days after the returned product is approved."
+  },
+  {
+    "question": "Can I cancel my order?",
+    "answer": "Orders can be cancelled before they are shipped."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "You can create a support ticket through our customer service agent."
+  }
+]
