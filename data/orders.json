@@ -1,0 +1,27 @@
+
+[
+  {
+    "order_id": "1001",
+    "customer_name": "Siri",
+    "product": "Wireless Headphones",
+    "status": "Shipped",
+    "expected_delivery": "2026-10-27",
+    "refund_status": "Not Applicable"
+  },
+  {
+    "order_id": "1002",
+    "customer_name": "Rahul",
+    "product": "Smart Watch",
+    "status": "Delivered",
+    "expected_delivery": "2026-10-20",
+    "refund_status": "Not Applicable"
+  },
+  {
+    "order_id": "1003",
+    "customer_name": "Ananya",
+    "product": "Laptop",
+    "status": "Return Requested",
+    "expected_delivery": "2026-10-15",
+    "refund_status": "Processing"
+  }
+]
